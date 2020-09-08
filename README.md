@@ -1,6 +1,6 @@
 # [Jaden Feddock](http://www.jadenfeddock.com/)
 
-[JadenFeddock.com](http://www.jadenfeddock.com/) is my personal website, mostly where I can test things that I am learning in HTML, CSS, and Javascript!
+[JadenFeddock.com](http://www.jadenfeddock.com/) is my personal website, mostly where I can test things
 
 
 ## Copyright and License
